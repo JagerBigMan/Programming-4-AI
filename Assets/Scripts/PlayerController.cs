@@ -15,7 +15,7 @@ public class PlayerController : MonoBehaviour
     }
 
 
-    // Update is called once per frame
+    // Update is called once per 
     void Update()
     {
         bool leftMouseClicked = Mouse.current.leftButton.wasPressedThisFrame;
